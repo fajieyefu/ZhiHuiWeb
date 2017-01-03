@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Sun JDK 1.6.0_13"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar/picasso-2.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/jar/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="F:/jar/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/直饮水/app_wx_pay_tool_android1d902c/【微信APP支付】服务端demo/java/jsp/app-java/WEB-INF/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/直饮水/app_wx_pay_tool_android1d902c/【微信APP支付】服务端demo/java/jsp/app-java/WEB-INF/lib/org.json.JsonObject.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/jar/httpcomponents-client-4.2.5-bin/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/临时文件夹/直饮水/app_wx_pay_tool_android1d902c/【微信APP支付】SDK_For_Android/libs/libammsdk.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/msbase.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/msutil.jar"/>
+	<classpathentry kind="lib" path="F:/软件/javalianjiesqlserver2008/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="G:/googledownload/json应用jar包/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/googledownload/json应用jar包/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="G:/googledownload/json应用jar包/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="G:/googledownload/json应用jar包/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/googledownload/json应用jar包/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="G:/googledownload/json应用jar包/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
